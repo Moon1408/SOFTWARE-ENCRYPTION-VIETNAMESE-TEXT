@@ -6,7 +6,7 @@
 2. Công cụ: Python, StarUML, PyQT6 Designer
 
 3. Các bước thực hiện:
-
+   
   B1: Thiết kế sơ đồ chức năng 
   
   B2: Use case tổng quát
