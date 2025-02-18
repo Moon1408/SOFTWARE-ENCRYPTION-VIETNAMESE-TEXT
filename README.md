@@ -7,13 +7,13 @@
 
 3. Các bước thực hiện:
    
-  B1: Thiết kế sơ đồ chức năng 
-  
-  B2: Use case tổng quát
-  
-  B3: Thiết kế giao diện
-  
-  B4: Xây dựng phân mềm mã hóa 
+      B1: Thiết kế sơ đồ chức năng 
+      
+      B2: Use case tổng quát
+      
+      B3: Thiết kế giao diện
+      
+      B4: Xây dựng phân mềm mã hóa 
 
 4. Kết quả
    
