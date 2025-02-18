@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="image">
+    <file>user-interface.png</file>
+    <file>add-user.png</file>
+    <file>Khoa.png</file>
+    <file>dn_dn.png</file>
+    <file>bmdn3.jpg</file>
+    <file>bmdn1.jpg</file>
+    <file>bmdn2.jpg</file>
+    <file>hinh_BM.jpg</file>
+    <file>hinh_dn.jpg</file>
+    <file>khoa.png</file>
+    <file>user.png</file>
+  </qresource>
+</RCC>
